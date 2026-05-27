@@ -6,7 +6,7 @@ Configuration for Discord Token Telegram Bot
 import os
 
 # ======== TELEGRAM BOT ========
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TELEGRAM_BOT_TOKEN = "8836462015:AAE0InG3w8vRCD1BPYruTqylmjAxcPLWsos"
 ALLOWED_USERS = []  # Telegram User IDs ที่อนุญาต (ว่าง = อนุญาตทุกคน)
 
 # ======== WEBHOOK (Optional) ========
